@@ -23,15 +23,15 @@ Now you can get started building the application by visiting gLearn and followin
 
 ## Level 0
 
-1. A movieList element should correspond to a react component. The movieList, therefore, is a react component of react components.
+- [ ] A movieList element should correspond to a react component. The movieList, therefore, is a react component of react components.
 
-2. Iterate through ```movies``` and hardcode them.
+- [ ] Iterate through ```movies``` and hardcode them.
 
 ## Level 1
 
-1. Make a searchbar using some HTML inside a react component.
+- [ ] Make a searchbar using some HTML inside a react component.
 
-2. Add an eventListener (make the button stateful) so when it is triggered, only those react elements with matching names are displayed.
+- [ ] Add an eventListener (make the button stateful) so when it is triggered, only those react elements with matching names are displayed.
 
-* Add an extra clause to 2 to catch cases where there are no such react elements with the given movie name
+  - [ ] Add an extra clause to 2 to catch cases where there are no such react elements with the given movie name
 
