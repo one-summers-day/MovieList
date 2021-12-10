@@ -58,4 +58,4 @@ Now you can get started building the application by visiting gLearn and followin
 
 ## System Architecture
 
-- Refer to [this diagram made with Excalidraw] (https://www.google.org)
+- Refer to [this diagram made with Excalidraw](https://www.google.org)
