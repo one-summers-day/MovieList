@@ -27,5 +27,11 @@ Now you can get started building the application by visiting gLearn and followin
 
 2. Iterate through ```movies``` and hardcode them.
 
+## Level 1
 
+1. Make a searchbar using some HTML inside a react component.
+
+2. Add an eventListener (make the button stateful) so when it is triggered, only those react elements with matching names are displayed.
+
+* Add an extra clause to 2 to catch cases where there are no such react elements with the given movie name
 
