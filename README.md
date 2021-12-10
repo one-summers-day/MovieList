@@ -55,3 +55,7 @@ Now you can get started building the application by visiting gLearn and followin
 ### Level 4 / Level 5
 
 - This seems like overkill with the amount of time available, so skipping it for now
+
+## System Architecture
+
+- Refer to [this diagram made with Excalidraw] (https://www.google.org)
