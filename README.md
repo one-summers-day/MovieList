@@ -18,3 +18,14 @@
 4. Open localhost:3000 in the browser and you should see **Hello World!** if React is running correctly.
 
 Now you can get started building the application by visiting gLearn and following the next instructions there.
+
+# Logos
+
+## Level 0
+
+1. A movieList element should correspond to a react component. The movieList, therefore, is a react component of react components.
+
+2. Iterate through ```movies``` and hardcode them.
+
+
+
